@@ -17,11 +17,12 @@ Your task is to insert launch links for both cases.
 **Insert a MyBinder.org launch link for this repository.**
 
 *launch link goes here*
+https://notebooks.gesis.org/binder/jupyter/user/marypthomas-notebooks-sharing-o6zor44j/tree
  
 **Insert a MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
 
 *launch link goes here*
-
+https://notebooks.gesis.org/binder/jupyter/user/marypthomas-notebooks-sharing-o6zor44j/tree/notebooks/4-Predict.ipynb
 
 ## Setup for Expanse
 Login with your Expanse username (xdtrXX). Note, this username is different from your XSEDE username (trainXX).
